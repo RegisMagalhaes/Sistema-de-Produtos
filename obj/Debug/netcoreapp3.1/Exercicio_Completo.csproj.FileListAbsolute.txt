@@ -1,0 +1,4 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Exercicio_Completo\obj\Debug\netcoreapp3.1\Exercicio_Completo.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Exercicio_Completo\obj\Debug\netcoreapp3.1\Exercicio_Completo.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Exercicio_Completo\obj\Debug\netcoreapp3.1\Exercicio_Completo.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Exercicio_Completo\obj\Debug\netcoreapp3.1\Exercicio_Completo.csproj.CoreCompileInputs.cache
